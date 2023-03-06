@@ -3,6 +3,7 @@
 ## REST:
 - Webservice Wrapper : https://github.com/reactiveui/refit
 - Webservice Wrapper :https://github.com/restsharp/RestSharp
+- Nswag client generator : https://github.com/RicoSuter/NSwag
 
 ## DATA :
 - Data generator : https://github.com/bchavez/Bogus
